@@ -7,7 +7,7 @@ body{
     position: relative;
     width: 460px;
     height: 490px;
-    font-family: "Nunito";
+    font-family: 'Nunito', sans-serif;
 
 }
 .swiper-slide{
