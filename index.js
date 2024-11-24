@@ -7,4 +7,4 @@
     delay: 1500,
     pauseOnMouseEnter: true,
 }
-    });
+    })
